@@ -16,6 +16,7 @@ A simple web-based **Poster Editor** built using **HTML, CSS, and JavaScript**. 
 * HTML5
 * CSS3
 * JavaScript
+[![Portfolio Preview](preview.png)](https://mr-umesh122.github.io/Graphic-editor/)
 
 ## Project Purpose
 

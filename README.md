@@ -19,7 +19,7 @@ A simple web-based **Poster Editor** built using **HTML, CSS, and JavaScript**. 
 
 ## 🌐 Live Demo
 
-[![Portfolio Preview](preview.png)](https://mr-umesh122.github.io/Graphic-editor/)
+[![Portfolio Preview](Screenshot 2026-09-20 123626.png)](https://mr-umesh122.github.io/Graphic-editor/)
 
 **Click the preview image above to open the live website.**
 
